@@ -1,10 +1,7 @@
-[![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
 
 # Deep Learning Project
 
-The present repository contains my solution to the [Udacity RoboND Deep Learning Project](https://github.com/udacity/RoboND-DeepLearning-Project).
 
-For setup instructions, refer to [`ORIGINAL_README`](ORIGINAL_README.md).
 
 # Objective
 
